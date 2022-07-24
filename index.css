@@ -1,0 +1,11 @@
+#box{
+    text-align: center;
+    border-color: black;
+    /* background-color: aqua; */
+    width: 90px;
+
+}
+
+#btn {
+    width: 30%;
+}
